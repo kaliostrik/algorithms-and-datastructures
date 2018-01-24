@@ -1,4 +1,4 @@
-package com.vsuet.utils.algo.search;
+package com.vsuet.uits.algo.search;
 
 public class LinearSearch {
     public void  main(String[] args) {
